@@ -1,4 +1,5 @@
 // Funcion que recibe por parametro el % de descuento
+
 import { calculateTotalPrice } from "./calculatetotalprice.mjs";
 
 export function applyDiscount(library, discountPercentage) {
